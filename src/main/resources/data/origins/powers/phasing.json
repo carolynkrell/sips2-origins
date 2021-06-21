@@ -21,5 +21,6 @@
   "condition": {
     "type": "origins:power_active",
     "power": "*:phantomize"
-  }
+  },
+  "hidden": true
 }

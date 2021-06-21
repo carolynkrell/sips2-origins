@@ -1,6 +1,6 @@
 {
   "origin.origins.human.name": "Human",
-  "origin.origins.human.description": "A regular human. Your ordinary Minecraft experience awaits.",
+  "origin.origins.human.description": "You are regularly sized.",
 
   "origin.origins.merling.name": "Merling",
   "origin.origins.merling.description": "These natural inhabitants of the ocean are not used to being out of the water for too long.",
@@ -83,8 +83,8 @@
   "power.origins.fresh_air.name": "Fresh Air",
   "power.origins.fresh_air.description": "When sleeping, your bed needs to be at an altitude of at least 86 blocks, so you can breathe fresh air.",
 
-  "power.origins.phasing.name": "Phasing",
-  "power.origins.phasing.description": "While phantomized, you can walk through solid material, except Obsidian.",
+  "power.origins.phasing.name": "The Atrioc Gambit",
+  "power.origins.phasing.description": "You can toggle walking through blocks.",
 
   "power.origins.invisibility.name": "Invisibility",
   "power.origins.invisibility.description": "While phantomized, you are invisible.",
@@ -155,8 +155,8 @@
   "power.origins.strong_arms.name": "Strong Arms",
   "power.origins.strong_arms.description": "You are strong enough to break natural stones without using a pickaxe.",
 
-  "power.origins.translucent.name": "Translucent",
-  "power.origins.translucent.description": "Your skin is translucent.",
+  "power.origins.translucent.name": "Ghostder Real????",
+  "power.origins.translucent.description": "Your skin is desaturated and transparent.",
 
   "power.origins.end_spawn.name": "End Inhabitant",
   "power.origins.end_spawn.description": "Your journey begins in the End.",
