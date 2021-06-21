@@ -2,6 +2,10 @@
   "origin.origins.human.name": "Human",
   "origin.origins.human.description": "You are regularly sized.",
 
+  "origin.origins.ghost.name": "Ghost",
+  "origin.origins.ghost.description": "",
+
+
   "origin.origins.merling.name": "Merling",
   "origin.origins.merling.description": "These natural inhabitants of the ocean are not used to being out of the water for too long.",
 
