@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins:phantomize",
+		"origins:translucent",
+		"origins:phasing"
+	],
+	"icon": {
+		"item": "minecraft:phantom_membrane"
+	},
+	"order": 2,
+	"impact": 3
+}
